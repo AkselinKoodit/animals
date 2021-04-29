@@ -47,6 +47,38 @@
       "desc": "Godzilla (Japanese: ゴジラ, Hepburn: Gojira, /ɡɒdˈzɪlə/; [ɡoꜜdʑiɾa] (About this soundlisten)) is a fictional monster, or kaiju, originating from a series of Japanese films. The character first appeared in the 1954 film Godzilla and became a worldwide pop culture icon, appearing in various media, including 32 films produced by Toho, four Hollywood films and numerous video games, novels, comic books and television shows. Godzilla has been dubbed the \"King of the Monsters\", a phrase first used in Godzilla, King of the Monsters! (1956), the Americanized version of the original film.\n\nGodzilla is an enormous, destructive, prehistoric sea monster awakened and empowered by nuclear radiation. With the nuclear bombings of Hiroshima and Nagasaki and the Lucky Dragon 5 incident still fresh in the Japanese consciousness, Godzilla was conceived as a metaphor for nuclear weapons.[26] Others have suggested that Godzilla is a metaphor for the United States, a giant beast woken from its slumber which then takes terrible vengeance on Japan.",
       "link": "https://en.wikipedia.org/wiki/Godzilla",
       "id": 11
+    },
+    {
+      "name": "Turtle",
+      "aclass": "butcher",
+      "img": "https://en.wikipedia.org/wiki/Turtle",
+      "desc": "Turtles are reptiles of the order Chelonia /kɪˈloʊniə/ or Testudines /tɛˈstjuːdɪniːz/. They are characterized by a special bony or cartilaginous shell developed from their ribs that acts as a shield.[3] Colloquially, the word \"turtle\" is generally restricted to fresh-water and sea-dwelling Testudines. Testudines includes both extant (living) and extinct species. Its earliest known members date from the Middle Jurassic.[1] Turtles are one of the oldest reptile groups, more ancient than snakes or crocodilians. Of the 360 known extant species, some are highly endangered.",
+      "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Florida_Box_Turtle_Digon3_re-edited.jpg/1280px-Florida_Box_Turtle_Digon3_re-edited.jpg",
+      "id": 12
+    },
+    {
+      "name": "Rabbit",
+      "aclass": "student",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Oryctolagus_cuniculus_Rcdo.jpg/800px-Oryctolagus_cuniculus_Rcdo.jpg",
+      "desc": "Rabbits are small mammals in the family Leporidae (along with the hare) of the order Lagomorpha (along with the pika). Oryctolagus cuniculus includes the European rabbit species and its descendants, the world's 305 breeds[1] of domestic rabbit. Sylvilagus includes 13 wild rabbit species, among them the seven types of cottontail. The European rabbit, which has been introduced on every continent except Antarctica, is familiar throughout the world as a wild prey animal and as a domesticated form of livestock and pet. With its widespread effect on ecologies and cultures, the rabbit (or bunny) is, in many areas of the world, a part of daily life—as food, clothing, a companion and a source of artistic inspiration.",
+      "link": "https://en.wikipedia.org/wiki/Rabbit",
+      "id": 13
+    },
+    {
+      "name": "Horse",
+      "aclass": "knight",
+      "img": "https://res.cloudinary.com/dk-find-out/image/upload/q_80,w_1920,f_auto/MA_00600259_vpf1m0.jpg",
+      "desc": "The horse (Equus ferus caballus)[2][3] is a domesticated odd-toed ungulate mammal. It belongs to the taxonomic family Equidae and is one of two extant subspecies of Equus ferus. The horse has evolved over the past 45 to 55 million years from a small multi-toed creature, Eohippus, into the large, single-toed animal of today. Humans began domesticating horses around 4000 BC, and their domestication is believed to have been widespread by 3000 BC. Horses in the subspecies caballus are domesticated, although some domesticated populations live in the wild as feral horses. These feral populations are not true wild horses, as this term is used to describe horses that have never been domesticated, such as the endangered Przewalski's horse, a separate subspecies, and the only remaining true wild horse. There is an extensive, specialized vocabulary used to describe equine-related concepts, covering everything from anatomy to life stages, size, colors, markings, breeds, locomotion, and behavior.",
+      "link": "https://en.wikipedia.org/wiki/Horse",
+      "id": 14
+    },
+    {
+      "name": "Velociraptor",
+      "aclass": "student",
+      "img": "https://static.wikia.nocookie.net/dinosauruspuisto/images/b/b8/Velociraptor-info-graphic.png/revision/latest?cb=20150421155122&path-prefix=fi",
+      "desc": "Velociraptor (/vɪˈlɒsɪræptər/; meaning \"swift seizer\" in Latin) is a genus of dromaeosaurid theropod dinosaur that lived approximately 75 to 71 million years ago during the latter part of the Cretaceous Period. Two species are currently recognized, although others have been assigned in the past",
+      "link": "https://en.wikipedia.org/wiki/Velociraptor",
+      "id": 15
     }
   ]
 }

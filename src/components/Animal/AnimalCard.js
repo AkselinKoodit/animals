@@ -5,6 +5,7 @@ const AnimalCard = ({ name, link, img, desc, aclass }) => {
   const limitWords = (str, no_words) => {
     return str.split(" ").splice(0, no_words).join(" ");
   };
+
   return (
     <div className="card">
       <h3> {name} </h3>
