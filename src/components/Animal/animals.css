@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+.animalsListing {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-gap: 1rem;
+}
+
+.card {
+  margin: 20px;
+  width: 300px;
+  padding: 10px;
+  background-color: #fce0d1;
+  border-radius: 4px;
+}
+.card img {
+  width: 200px;
+}
+.imgContainer {
+  text-align: center;
+}
